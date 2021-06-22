@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliServices
-- 👀 I’m interested in python, vbs and linux shell.
-- 🌱 I’m currently learning python.
+- 👀 I'm interested in LAMP stack.
+- 🌱 I’m currently learning python, php and javascript.
 - 📫 You can reach me via email at: EliServices.server@gmail.com
 
 <!---
