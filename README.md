@@ -16,7 +16,7 @@
 
 ### GitHub Stats
 
-<img align="left" alt="EliService's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EliServices&show_icons=true&hide_border=true" />
+[![EliServices's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliServices&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://eliservices.servehttp.com
 [twitter]: https://twitter.com/eliaskremer7
