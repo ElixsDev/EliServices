@@ -12,9 +12,16 @@
 [<img align="left" alt="elixs.krmr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="EliServices | PyPi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][pypi]
 
-<br />
+### Latest repo & Language stats:
 
-### GitHub Stats
+<a href="https://github.com/EliServices/Ground-Assistant-V2.X">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliServices&repo=Ground-Assistant-V2.X">
+</a> &nbsp &nbsp
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliServices&layout=compact">
+</a>
+
+### GitHub Stats:
 
 [![EliServices's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliServices&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
