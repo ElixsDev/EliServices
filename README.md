@@ -12,6 +12,8 @@
 [<img align="left" alt="elixs.krmr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="EliServices | PyPi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][pypi]
 
+<br />
+
 ### GitHub Stats
 
 <img align="left" alt="EliService's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EliServices&show_icons=true&hide_border=true" />
