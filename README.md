@@ -25,7 +25,7 @@
 [<img align="left" alt="elixs.krmr | Instagram" width="40px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />][instagram]
 [<img align="left" alt="EliServices | PyPi" width="40px" src="https://pypi.org/static/images/logo-small.6eef541e.svg" />][pypi]
 
-[website]: https://eliservices.servehttp.com
+[website]: https://elixs.dev
 [twitter]: https://twitter.com/eliaskremer7
 [instagram]: https://instagram.com/elixs.krmr
 [pypi]: https://pypi.org/user/EliServices/
