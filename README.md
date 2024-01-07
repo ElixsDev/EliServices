@@ -1,4 +1,4 @@
-### Hi there, I'm Elias - aka [EliServices][website] 👋
+### Hi there, I'm Elias - aka [elixs.dev][website] 👋
 
 - 🌱 I’m currently learning everything since I am new in this field 🤣
 - 🥅 2021 Goals: Creating a fully functioning version of my first project (Ground-Assistant) 
